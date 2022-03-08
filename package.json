@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kkumbhar/NodeProject#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "import-local": "^3.1.0"
   }
 }

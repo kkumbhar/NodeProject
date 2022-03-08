@@ -1,4 +1,4 @@
-const test_data=[{
+const inventory=[{
     "barcode":1001,
     "name":"Apple",
     "price": 1.1
@@ -11,4 +11,4 @@ const test_data=[{
       "name":"Apple",
       "price": 0.9
     }];
-module.exports=test_data;
+module.exports=inventory;
